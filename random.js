@@ -6,8 +6,12 @@ const range=document.getElementById('customRange2');
 const p= document.getElementById('random');
 const accion=document.getElementById('botonaccion');
 
+const reset=document.getElementById('reset');
 
 
+    reset.addEventListener('click', function(){
+        p.innerHTML="";
+    })
    
 
    range.addEventListener('change', function() {
