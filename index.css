@@ -1,0 +1,11 @@
+form{
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    width: 50%;
+    font: optional;
+}
+
+.container{
+    width: 100%;
+}
