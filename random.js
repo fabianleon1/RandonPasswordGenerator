@@ -19,7 +19,7 @@ const reset=document.getElementById('reset');
     const valorActual = range.value;
     
     // Hacer algo con el valor actual, por ejemplo, mostrarlo en consola
-    console.log("Nuevo valor del rango:", valorActual);
+
     const random = ()=>{
 
 
